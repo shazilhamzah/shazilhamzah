@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **C++ and Python(django)**
 
-- 📫 How to reach me **shazil.hamzah@outlook.com**
+- 📫 How to reach me: **shazil.hamzah@outlook.com**
 
-- ⚡ Fun fact **I don't know why but I love chocolates :)**
+- ⚡ Fun fact: **I don't know why but I love chocolates :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
