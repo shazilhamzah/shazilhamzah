@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **shazil.hamzah@outlook.com**
 
-- ⚡ Fun fact: **I don't know why but I love chocolates :)**
+- ⚡ Fun fact: **I love chocolates, btw who doesn't? :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
