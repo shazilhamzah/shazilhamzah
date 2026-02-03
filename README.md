@@ -15,8 +15,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,cpp,docker,express,git,linux,mongodb,nodejs,postgres,python,react,redis)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,docker,express,git,linux,mongodb,nodejs,postgres,python,react,redis" />
+  </a>
+</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shazilhamzah&show_icons=true&locale=en" alt="shazilhamzah" /></p> -->
 
