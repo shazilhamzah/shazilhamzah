@@ -23,7 +23,7 @@ jobs:
           # You can change the theme here (e.g., &theme=radical, &theme=tokyonight)
           options: 'username=shazilhamzah&show_icons=true&theme=radical&rank_icon=github'
           path: 'generated/stats.svg'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       # Generates the Top Languages Card
       - name: Generate Top Langs Card
