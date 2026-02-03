@@ -32,7 +32,7 @@ jobs:
           card: 'top-langs'
           options: 'username=shazilhamzah&layout=compact&theme=radical'
           path: 'generated/top-langs.svg'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       # Pushes the generated images back to your repo
       - name: Commit and Push
