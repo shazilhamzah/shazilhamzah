@@ -22,6 +22,7 @@
 </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shazilhamzah&show_icons=true&locale=en" alt="shazilhamzah" /></p> -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 
 ![Shazil's GitHub Stats](./generated/stats.svg)  ![Top Languages](./generated/top-langs.svg)
